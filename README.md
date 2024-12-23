@@ -8,6 +8,7 @@ cd solana-raydium-pumpfun-sniper-bot
 ```
 ## 2 Install Modules
 
+
 ```bash
 npm install
 ```
